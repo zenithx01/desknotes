@@ -12,7 +12,7 @@ DeskNote is a collection of cheat sheet i've created from my past learnings. Thi
 
 ## List Of Modules
 
-- Python
+- [Python](https://github.com/zenithx01/desknotes/blob/main/python-notes.md)
 - Bash
 - C
 - Java
